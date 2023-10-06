@@ -9,7 +9,6 @@ This repository contains code related to data analysis and visualization using *
 - [Installation]
 - [Usage]
 - [Contributing]
-- [License]
 
 ## Introduction
 
