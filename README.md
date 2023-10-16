@@ -17,7 +17,7 @@ The "M.L. Toolbox" repository is a collection of Python scripts and notebooks de
 ## Requirements
 
 Ensure you have the following prerequisites installed:
-- Python 3.x
+- Python 3.10
 - Numpy
 - Seaborn
 - Bokeh
